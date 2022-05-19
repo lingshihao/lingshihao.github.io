@@ -33,7 +33,7 @@ http://192.168.8.199:4022/rtp/239.49.9.59:6000
 http://192.168.8.199:4022/rtp/239.49.8.52:9810
 #EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://192.168.8.199:4022/rtp/239.49.8.18:9610
-#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN",CGTN俄语
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN俄语
 http://192.168.8.199:4022/rtp/239.49.0.111:8000
 #EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://192.168.8.199:4022/rtp/239.49.8.16:9602
